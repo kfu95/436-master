@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\aznho\Downloads\436-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\aznho\Downloads\436-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_f7752bcab8f1e1f051afdc3d95bf33b1bc0914c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aznho\Downloads\436-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\aznho\Downloads\436-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_6bbe9c65a1d2174e01f068135c7495de6a629201\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aznho\Downloads\436-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\aznho\Downloads\436-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_62c47795158e97a961290015bc764947e1000cdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aznho\Downloads\436-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\aznho\Downloads\436-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_9f646d086d039af39789d56b70511fdabd91e7ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aznho\Downloads\436-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="415daf8a2df52305891fa40b64c26c0d8814cc33">
+        <dex dex="C:\Users\aznho\Downloads\436-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_24db67bcabf317c6a42f3d436c9aac9916bb6bda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aznho\Downloads\436-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\aznho\Downloads\436-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_1c2684bbc9182e951360259eb597fc0dce070d92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aznho\Downloads\436-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\aznho\Downloads\436-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_6c90b719e80219addfd2744b1a46b54d82e54b5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aznho\Downloads\436-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\aznho\Downloads\436-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_a18ff3e8b9fdd888ccc8c1e0c3bb3a6b7a558668\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aznho\Downloads\436-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\aznho\Downloads\436-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_91f54fac6c07c1e49aff19b5d084516af688ead1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aznho\Downloads\436-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd69795f0de86257311939b5c7becf26c49ec218">
+        <dex dex="C:\Users\aznho\Downloads\436-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_610b39fd46d4866fcbab0569a16eebfe631fb3a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aznho\Downloads\436-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\aznho\Downloads\436-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_fff40163f82168f03a49c9595db144bac3094895\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aznho\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\aznho\Downloads\436-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_33653117ad6b46d3c2086f048dd7b75ee3f15c61\classes.dex" />
+    </item>
+
+</items>
